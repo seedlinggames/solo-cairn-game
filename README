@@ -10,5 +10,19 @@ Right now the pages don't flow together in order at all.
 Start with the [table of contents](table_of_contents.md).
 
 # License
-Text licensed under CC-BY-SA 4.0.
+Text licensed under CC-BY-SA 4.0. Images are *not* CC and are licensed from their respective creators, aside from the cover image which is based on a public domain image sourced from [Old Book Illustrations](https://www.oldbookillustrations.com/).
 It probably borrows some text from [Cairn](https://cairnrpg.com/).
+
+Hex maps created using [The HPS Cartography Kit](https://natetreme.itch.io/cartographykit)
+Some art copyright Evlyn [Moreau](https://www.patreon.com/evlynmoreau/posts), used with permission.
+Dungeon maps created using Dungeon Scrawler and CCO assets by Mark Gosbell
+
+# TO DO
+- [ ] Give all the dungeon rooms a number and refer to them and their transitions that way
+- [ ] Complete the description of the overland hex map 
+- [ ] Playtest
+- [ ] Make sure this accomplishes the goal of actually being a tutorial for playing cairn solo
+- [ ] General proofreading + revising
+- [ ] Printable layout
+- [ ] Actually draw all the maps and also rotate them so that north is up, they're like that for a reason right now and the reason is that I drew a sketch of the map and then realized that north should be a different direction to correspond to the hex  map in a logical way
+- [ ] Do I want to rename the monsters or rename anything
